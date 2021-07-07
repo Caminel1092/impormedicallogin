@@ -31,7 +31,7 @@
     "props": {
       "text":
       "# No tienes acceso para realizar compras, Comunicate con nosotros para incluirte como cliente \n en el botón inferior puedes volver al catálogo",
-      "blockClass": "textoquien"
+      "blockClass": "textodene"
     }
   },
   "rich-text#title-notaccesB": {

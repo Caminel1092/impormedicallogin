@@ -165,7 +165,7 @@
   "challenge.trade-policy-condition": {
     "props": {
       "redirectPath"  : "/login",
-      "forbiddenRedirectPath":"https://www.impormedical.com.co/"
+      "forbiddenRedirectPath":"//https://www.impormedical.com.co/"
     }
   }
 

@@ -19,6 +19,9 @@
     },
     "store.custom#coockies": {
       "path": "/coockies"
+    },
+    "store.custom#notienesacceso": {
+      "path": "/accessdenied"
     }
 
   }
